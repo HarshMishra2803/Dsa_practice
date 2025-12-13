@@ -1,3 +1,4 @@
+package pattern;
 public class pattern7 {
     public static void main(String[] args) {
         int n= 6;
