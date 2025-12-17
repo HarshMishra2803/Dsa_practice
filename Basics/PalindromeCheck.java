@@ -1,3 +1,4 @@
+package Basics;
 public class PalindromeCheck {
     public static boolean isPalindrome(String str, int start, int end) {
         // Base case: single character or empty substring

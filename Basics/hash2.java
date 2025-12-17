@@ -1,3 +1,4 @@
+package Basics;
 public class hash2 {
     public static void main(String[] args) {
         int arr[] = {10,5,10,15,10,5};

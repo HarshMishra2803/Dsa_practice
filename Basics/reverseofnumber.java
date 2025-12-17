@@ -1,3 +1,4 @@
+package Basics;
 public class reverseofnumber{
     public static int reverse (int n ){
 

@@ -1,3 +1,4 @@
+package Basics;
 // public class PrintallDivisorsofagivenNumber {
 
 //     public static void divv(int n) {

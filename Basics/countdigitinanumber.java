@@ -1,3 +1,4 @@
+package Basics;
 
         public class countdigitinanumber {
             public static void main(String[] args) {

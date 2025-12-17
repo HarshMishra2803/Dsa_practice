@@ -1,3 +1,4 @@
+package Basics;
 public class gcdOfTwoNumberappraoch2 {
 
     public static int gcd(int N1, int N2) {

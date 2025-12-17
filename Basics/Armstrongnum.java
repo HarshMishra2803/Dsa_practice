@@ -1,3 +1,4 @@
+package Basics;
 public class Armstrongnum {
     public static int Armstrongnumm(int n) {
         int original = n;

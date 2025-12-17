@@ -1,3 +1,4 @@
+package Basics;
 public class pallindrome{
     public static boolean reverse (int n ){
 

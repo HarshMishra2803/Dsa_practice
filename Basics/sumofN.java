@@ -1,3 +1,4 @@
+package Basics;
 public class sumofN {
     public static int rec3(int n) {
         if (n == 0) {

@@ -1,3 +1,4 @@
+package Basics;
 public class recursion2 {
 
     public static void rec2(int n){ // print n t0 1 

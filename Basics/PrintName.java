@@ -1,3 +1,4 @@
+package Basics;
 public class PrintName {
 
     static void printName(int n) {
