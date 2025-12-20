@@ -1,7 +1,7 @@
 package Basics;
 public class reverse{
 
-    public static void reverse(int arr[], int start, int end) {
+    public reverse(int arr[], int start, int end) {
         if (start >= end) {
             return;
         }
@@ -13,6 +13,10 @@ public class reverse{
 
         // recursive call
         reverse(arr, start + 1, end - 1);
+    }
+
+    private static void reverse(int[] arr, int i, int j) {
+        throw new UnsupportedOperationException("Unimplemented method 'reverse'");
     }
 
     public static void main(String[] args) {
