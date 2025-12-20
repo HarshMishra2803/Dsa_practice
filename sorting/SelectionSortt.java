@@ -1,3 +1,4 @@
+package sorting;
 public class SelectionSortt {
     public static void ss(int arr[]) {
 

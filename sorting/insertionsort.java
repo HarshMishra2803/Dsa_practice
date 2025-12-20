@@ -1,3 +1,4 @@
+package sorting;
 public class insertionsort {
 
     public static void is(int arr[]){

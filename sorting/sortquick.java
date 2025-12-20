@@ -1,3 +1,4 @@
+package sorting;
 public class sortquick {
     static int partiton(int arr[],int si , int ei){
         int pivot = arr[si];

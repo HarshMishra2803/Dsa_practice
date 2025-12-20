@@ -1,3 +1,4 @@
+package sorting;
 public class BubbleSortRecursive {
 
     public static void bubbleSort(int[] arr, int n) {

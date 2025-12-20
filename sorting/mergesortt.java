@@ -1,3 +1,4 @@
+package sorting;
 public class mergesortt {
 
     public static void merge(int arr[], int s, int e) {
