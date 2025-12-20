@@ -10,11 +10,10 @@ public class SelectionSortt {
                     curridx = j;
                 }
             }
-
             // ek hi baar swap
             int temp = arr[curridx];
             arr[curridx] = arr[i];
-            arr[i] = temp;
+            arr[i] = temp; 
         }
     }
 
