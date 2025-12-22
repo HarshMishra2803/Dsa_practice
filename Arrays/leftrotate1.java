@@ -1,3 +1,4 @@
+package Arrays;
 public class leftrotate1 {
 
     public static void lr1(int arr[]){

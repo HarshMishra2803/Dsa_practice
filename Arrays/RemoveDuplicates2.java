@@ -1,3 +1,4 @@
+package Arrays;
 public class RemoveDuplicates2 {
 
     // ~ optimal approach
@@ -16,7 +17,7 @@ public class RemoveDuplicates2 {
 
     public static void main(String[] args) {
 
-        int arr[] = { 1, 1, 2, 2, 2, 3, 3 };
+        int arr[] = { 1, 1,1, 2, 2, 2, 3, 3 };
         rd(arr);
 
         for (int i = 0; i < arr.length; i++) {
