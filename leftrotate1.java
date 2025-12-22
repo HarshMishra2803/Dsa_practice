@@ -9,8 +9,6 @@ public class leftrotate1 {
         arr[arr.length-1] = temp;
     }
 
-
-
     public static void main(String[] args) {
         int arr[] = {1,2,3,4,5} ;
         lr1(arr);
