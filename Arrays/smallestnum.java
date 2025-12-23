@@ -16,7 +16,7 @@ public class smallestnum {
     
     }
     public static void main(String[] args) {
-        int arr[] = {4,5,4,1} ;
+        int arr[] = {4,5,4,1,4} ;
         sn(arr);
     }
 }
