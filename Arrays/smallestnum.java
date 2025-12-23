@@ -13,10 +13,8 @@ public class smallestnum {
 
         }
         System.out.println("smallest number is :"+min);
-        
-
+    
     }
-
     public static void main(String[] args) {
         int arr[] = {4,5,4,1} ;
         sn(arr);
