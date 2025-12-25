@@ -8,7 +8,7 @@ public class Union1 {
         int arr1[] = {1, 2, 3,4,5,6,7,8,9,10};
         int arr2[] = {2,3,4,4,5,11,12};
 
-        // TreeSet -> unique + sorted
+        // TreeSet -> unique + sorted !
         Set<Integer> unionSet = new TreeSet<>();
 
         // add elements of first array
