@@ -3,9 +3,7 @@ package Arrays;
 public class subarrysumbf {
     static void ssbf(int arr[]){
         for(int i = 0  ; i < arr.length;i++){
-            for(int j = i ; j< arr.length ; j++){
-                int sum = 0 ; 
-                for(int )
+            for(int j = i ; j< arr.length ; j++){     
             }
         }
     }
