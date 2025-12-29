@@ -9,6 +9,8 @@ public class longsubaarya2poi {
         int maxlen = 0 ;
         int n = arr.length;
 
+        //done
+
         while ( right < n ){
             while(left<=right && sum > k){
                 sum = sum - arr[left];
@@ -25,7 +27,7 @@ public class longsubaarya2poi {
     }
     public static void main(String[] args) {
         
-        int arr [] = {1,2,3,1,1,1,1,3,3} ;
+        int arr [] = {1,2,3,1,1,1,1,-3,2,3,3} ;
         long k = 6 ;
         int res =longsubarr(arr, k);
         System.out.println(res);
