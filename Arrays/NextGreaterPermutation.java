@@ -15,7 +15,7 @@ public class NextGreaterPermutation {
             }
         }
 
-        // Step 2: if no breakpoint, reverse whole array
+        // Step 2: if no breakpoint, reverse whole Array
         if (ind == -1) {
             reverse(nums, 0, n - 1);
             return nums;
