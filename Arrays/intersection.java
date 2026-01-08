@@ -17,7 +17,7 @@ public class intersection {
 
                 if (arr1[i] == arr2[j] && vis[j] == 0) {
                     ans.add(arr1[i]);   // intersection me add
-                    vis[j] = 1;         // mark visited
+                    vis[j] = 1;         // mark visited!
                     break;              // next arr1 element par jao
                 }
                 if(arr2[j]> arr1[i]) break;
