@@ -15,13 +15,12 @@ public class pascaltriangleq1 {
         }
         return res;
 
-    }
+    } // pascal triangle
 
 
     public static void main(String[] args) {
         int n = 5 ; 
         int r = 3;
-
 
         
         int ans = nCr(n-1,r-1);
