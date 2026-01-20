@@ -15,7 +15,7 @@ public class pascaltriangleq1 {
         }
         return res;
 
-    } // pascal triangle
+    } // pascal triangle !
 
 
     public static void main(String[] args) {
