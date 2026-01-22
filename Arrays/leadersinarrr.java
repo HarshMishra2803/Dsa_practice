@@ -36,7 +36,7 @@ public class leadersinarrr {
         int maxfromright = arr[n-1];
         temp[count++] = maxfromright; 
 
-        // right to left scna karega yaha pae ham
+        // right to left scna karega yaha pae hama
 
         for(int i = n-2 ;i>=0 ;i--){
             if(arr[i]>maxfromright){
