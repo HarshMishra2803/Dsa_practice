@@ -9,7 +9,7 @@ public class mergesort{
         int mid = low + (high - low) / 2;
 
         mergeSort(arr, low, mid);      // left half
-        mergeSort(arr, mid + 1, high); // right half
+        mergeSort(arr, mid + 1, high); // right halff
 
         merge(arr, low, mid, high);    // merge
     }
