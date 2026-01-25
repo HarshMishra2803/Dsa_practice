@@ -11,7 +11,7 @@ public class mergesort{
         mergeSort(arr, low, mid);      // left half
         mergeSort(arr, mid + 1, high); // right halff
 
-        merge(arr, low, mid, high);    // merge
+        merge(arr, low, mid, high);    // mergee
     }
 
     public static void merge(int[] arr, int low, int mid, int high) {
