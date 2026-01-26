@@ -37,7 +37,7 @@ public class mergesort{
             temp[k++] = arr[right++];
         }
 
-        // copy back to original array
+        // copy back to original arrayy
         for (int i = 0; i < temp.length; i++) {
             arr[low + i] = temp[i];
         }
