@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.ArrayList;
 
-public class leadersinarrr {
+public class leadersinarrr { // leaders in arr
     public static ArrayList<Integer> linarr(int arr[]) {
 
         ArrayList<Integer> ans = new ArrayList<>();
