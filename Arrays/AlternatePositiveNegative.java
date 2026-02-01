@@ -10,7 +10,7 @@ public class AlternatePositiveNegative {
 
         int n = a.length;
 
-        // Separate positive and negative numbers
+        // Separate positive and negative numberss
         for (int i = 0; i < n; i++) {
             if (a[i] > 0) {
                 pos.add(a[i]);
