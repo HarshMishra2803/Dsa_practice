@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.ArrayList;
 
-public class leadersinarrr { // leaders in arr
+public class leadersinarrr { 
     public static ArrayList<Integer> linarr(int arr[]) {
 
         ArrayList<Integer> ans = new ArrayList<>();
@@ -58,3 +58,6 @@ public class leadersinarrr { // leaders in arr
         System.out.println(res);
     }
 }
+
+
+// leaders in array tc - O(n2)  and space complexity = 0(n)
