@@ -9,7 +9,7 @@ public class arrodd {
         ArrayList<Integer> neg = new ArrayList<>();
         int n = arr.length;
 
-        // separate -ve and +ve
+        // separate -ve and +vee
 
         for (int i = 0; i < n; i++) {
             if (arr[i] > 0) {
