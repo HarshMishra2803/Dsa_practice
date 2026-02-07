@@ -167,17 +167,17 @@
 # ***
 # ****
 
-row = 6 
+# row = 6 
 
 # for i in range(1, row + 1):
 #     print("*" * i)
 
-n = 4
-for i in range(1,n+1):
-    for j in range(i):
-        print("*",end = " ")
+# n = 4
+# for i in range(1,n+1):
+#     for j in range(i):
+#         print("*",end = " ")
 
-    print()    
+#     print()    
 
  #    *
  #   * *
@@ -185,4 +185,16 @@ for i in range(1,n+1):
  #  * * * *   
 
  
+# file handling / Functions / Modules
+
+
+# read mode  write modea
+
+with open("harsh.txt","r") as f :
+    content =f.read()
+    print(content)
+
+# read - yae pura read karta ha
+# readline - yae sirf line by line chalta ha
+# readines - yae multiple  lines read karta ha but list mae 
 
