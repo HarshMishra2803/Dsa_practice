@@ -198,3 +198,26 @@ with open("harsh.txt","r") as f :
 # readline - yae sirf line by line chalta ha
 # readines - yae multiple  lines read karta ha but list mae 
 
+
+def harsh(a,b):
+   ans = a*b
+   return ans
+ans1 = harsh(2,3)  
+print(ans1)
+
+
+def calculator(a,b,chr):
+    if(chr == "+"):
+        return a+b
+    elif(chr =="-"):
+       return a-b
+    elif(chr == "*"):
+        return a*b
+    else:
+        return a/b           
+  
+
+num1 = int(input("enter the first number"))
+num2 = int(input("enter the second number"))
+operator = input("enter the character")
+ans = calculator(num1,num2,chr)
