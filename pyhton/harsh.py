@@ -116,7 +116,7 @@
 #     "age" : "18",
 #     "rollno":"20",
 #     "subject":["phyiscs","chemistrt","biology"],
-#     "marks":[20,30,40]
+#     "marks":[20,30,40,60]
 # }
 # print(student.pop("name"))
 # print(student)
