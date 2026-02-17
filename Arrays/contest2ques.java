@@ -14,7 +14,7 @@ public class contest2ques {
             }
             
             if(sum ==k){
-                return count; //returnd
+                return count; //retursnn
             }
         }
         return -1;    
