@@ -41,7 +41,7 @@ public class BookAllocation {
 
             if (isPossible(arr, n, m, mid)) {
                 ans = mid;
-                end = mid - 1; // minimiz
+                end = mid - 1; // minimize
             } else {
                 start = mid + 1;
             }
