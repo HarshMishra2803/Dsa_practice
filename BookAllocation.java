@@ -29,7 +29,7 @@ public class BookAllocation {
 
         for (int i = 0; i < n; i++) {
             sum += arr[i];
-            max = Math.max(max, arr[i]); // math function
+            max = Math.max(max, arr[i]); 
         }
 
         int start = max;
