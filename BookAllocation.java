@@ -39,7 +39,7 @@ public class BookAllocation {
         while (start <= end) {
             int mid = start + (end - start) / 2;
 
-            if (isPossible(arr, n, m, mid)) {
+            if (isPossible(arr, n, m, mid)) { //poss
                 ans = mid;
                 end = mid - 1; 
             } else {
