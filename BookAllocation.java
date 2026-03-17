@@ -54,6 +54,6 @@ public class BookAllocation {
         int students = 2;
 
         int result = allocateBooks(books, books.length, students);
-        System.out.println("Minimum maximum pages = " + result);
+        System.out.println("Minimum maximum pages = " + result); // result 
     }
 }
